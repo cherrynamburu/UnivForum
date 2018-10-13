@@ -6,7 +6,7 @@ Simple Forum creted using Django to discuss any topics. Ideal for Universities a
 First, clone the repository to your local machine:
 
 ```bash
-git clone git@github.com:sibtc/django-beginners-guide.git
+git clone git@github.com/cherrynamburu/UnivForum.git
 ```
 
 Install the requirements:
